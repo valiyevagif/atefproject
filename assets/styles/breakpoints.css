@@ -1,0 +1,317 @@
+@media screen and (min-width: 320px) and (max-width: 767px) {
+    .container {
+        width: 80%;
+    }
+
+    header .header-bottom .container nav {
+        display: none;
+    }
+
+    header .header-top {
+        display: none;
+    }
+
+    .banner {
+        padding: 50px 0px !important;
+    }
+
+    .banner .container .slider-container {
+        height: 100%;
+    }
+
+    .banner .container .slider-container i {
+        font-size: 10px;
+    }
+
+    .page-dots {
+        display: none;
+    }
+
+    header .header-bottom img {
+        width: 70px !important;
+    }
+
+    .from-frounder {
+        display: none;
+    }
+
+    .foundation-section .foundation-inner .info-area {
+        flex-direction: column !important;
+        row-gap: 20px;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+
+    
+    .foundation-section .foundation-inner .info-area div {
+        border: none !important;
+    }
+    
+    header .header-bottom .container .hamburger-menu {
+        display: block !important;
+    }
+
+    .factories-section .container .row article {
+        width: 100% !important;
+    }
+
+    .factories-section .container .row article .content a h5 {
+        font-size: 15px !important;
+    }
+
+    .factories-section .container .row article .thumbnail {
+        height: 250px !important;
+    }
+
+    .factories-section .container .row article .content-info span {
+        font-size: 8px !important;
+    }
+
+    .last-news .container .row article {
+        width: 100% !important;
+    }
+
+    .last-news .container .row article .thumbnail {
+        height: 300px !important;
+    }
+
+    .products .container .row {
+        flex-wrap: wrap;
+        row-gap: 20px;
+    }
+
+    .products .container .row article {
+        width: 100% !important;
+    }
+
+    
+
+    .from-frounder .container .wrapper .left-side {
+        row-gap: 3px !important;
+    }
+
+    .from-frounder .container .wrapper .left-side p {
+        display: inline-block;
+        font-size: 6px !important;
+        line-height: 12px !important;
+        margin-bottom: 0px;
+    }
+
+    .from-frounder .container .wrapper .left-side span {
+        margin-top: 20px;
+    }
+
+    .focus-section .container .row {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .focus-section .container .row .focus-container .focus-title {
+        text-align: center;
+    }
+
+    .focus-section .container {
+        padding-right: 0px;
+    }
+
+    .focus-section .container .row .focus-container {
+        width: 100% !important;
+    }
+
+  }
+
+@media screen and (min-width: 480px) and (max-width: 767px) {
+    .container {
+        width: 90%;
+    }
+    header .header-bottom .container nav {
+        display: none;
+    }
+    
+    header .header-bottom .container .hamburger-menu {
+        display: block !important;
+    }
+
+    .factories-section .container .row article {
+        width: 100% !important;
+    }
+
+    .factories-section .container .row article .content a h5 {
+        font-size: 24px !important;
+    }
+
+    .factories-section .container .row article .thumbnail {
+        height: 350px !important;
+    }
+
+    .factories-section .container .row article .content-info span {
+        font-size: 14px !important;
+    }
+
+    .last-news .container .row article {
+        width: 49% !important;
+    }
+
+    .last-news .container .row article .thumbnail {
+        height: 300px !important;
+    }
+
+    .products .container .row {
+        flex-wrap: wrap;
+        row-gap: 20px;
+    }
+
+    .products .container .row article {
+        width: 49% !important;
+    }
+
+    .from-frounder .container .wrapper .left-side {
+        row-gap: 3px !important;
+    }
+
+    .from-frounder .container .wrapper .left-side p {
+        display: inline-block;
+        font-size: 6px !important;
+        line-height: 12px !important;
+        margin-bottom: 0px;
+    }
+
+    .from-frounder .container .wrapper .left-side span {
+        margin-top: 20px;
+    }
+
+    .focus-section .container .row .focus-container .focus-title {
+        text-align: center;
+    }
+
+  }
+
+@media screen and (min-width: 768px) and (max-width: 780px) {
+    .container {
+        width: 90%;
+    }
+    header .header-bottom .container nav {
+        display: none;
+    }
+    
+    header .header-bottom .container .hamburger-menu {
+        display: block !important;
+    }
+
+    .factories-section .container .row article {
+        width: 49% !important;
+    }
+
+    .factories-section .container .row article .thumbnail {
+        height: 300px !important;
+    }
+
+    .factories-section .container .row article .content-info {
+        font-size: 4px;
+    }
+
+    .last-news .container .row article {
+        width: 49% !important;
+    }
+
+    .last-news .container .row article .thumbnail {
+        height: 300px !important;
+    }
+
+    .products .container .row {
+        flex-wrap: wrap;
+        row-gap: 20px;
+    }
+
+    .products .container .row article {
+        width: 49% !important;
+    }
+
+    .from-frounder .container .wrapper .left-side {
+        row-gap: 5px !important;
+    }
+
+    .from-frounder .container .wrapper .left-side p {
+        display: inline-block;
+        font-size: 10px !important;
+        line-height: 12px !important;
+        margin-bottom: 0px;
+    }
+
+    .from-frounder .container .wrapper .left-side span {
+        margin-top: 20px;
+    }
+
+    .focus-section .container .row .focus-container .focus-title {
+        text-align: center;
+    }
+
+  }
+
+@media screen and (min-width: 781px) and (max-width: 1023px) {
+    .container {
+        width: 90%;
+    }
+    header .header-bottom .container nav {
+        display: none;
+    }
+    
+    header .header-bottom .container .hamburger-menu {
+        display: block !important;
+    }
+
+    .factories-section .container .row article {
+        width: 49% !important;
+    }
+
+    .factories-section .container .row article .thumbnail {
+        height: 300px !important;
+    }
+
+    .factories-section .container .row article 
+
+    .last-news .container .row article {
+        width: 49% !important;
+    }
+
+    .last-news .container .row article .thumbnail {
+        height: 300px !important;
+    }
+
+    .products .container .row {
+        flex-wrap: wrap;
+        row-gap: 20px;
+    }
+
+    .products .container .row article {
+        width: 49% !important;
+    }
+
+    .from-frounder .container .wrapper .left-side {
+        row-gap: 5px !important;
+    }
+
+    .from-frounder .container .wrapper .left-side p {
+        display: inline-block;
+        font-size: 10px !important;
+        line-height: 12px !important;
+        margin-bottom: 0px;
+    }
+
+    .from-frounder .container .wrapper .left-side span {
+        margin-top: 20px;
+    }
+
+    .focus-section .container .row .focus-container .focus-title {
+        text-align: center;
+    }
+
+  }
+
+@media screen and (min-width: 1024px) and (max-width: 1400px) {
+    .container {
+        width: 90%;
+    }
+  }
+  

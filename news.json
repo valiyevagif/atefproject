@@ -1,0 +1,44 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "thumbnail": "./assets/images/posts/1.webp",
+      "status": "New",
+      "title": "Heydar Aliyev's 100th Anniversary Celebrated at ATEF Group of Companies",
+      "slug": "heydar-aliyev-100th-anniversary",
+      "date": "10.05.2023",
+      "time": "08:03",
+      "content": "ATEF Group of Companies held an event dedicated to the 100th anniversary of Heydar Aliyev, the founder of the modern and independent state of Azerbaijan."
+    },
+    {
+      "id": 2,
+      "thumbnail": "./assets/images/posts/2.webp",
+      "status": "New",
+      "title": "Ilham Aliyev inaugurated 330 kV “Jabrayil” junction substation",
+      "slug": "ilham-aliyev-inagurated-330-kv",
+      "date": "10.05.2023",
+      "time": "12:30",
+      "content": "President of the Republic of Azerbaijan Ilham Aliyev has attended the inauguration of the 330 kV “Jabrayil” junction substation.<br>The substation has two autotransformers 250 MVA 330/110/10 kV, manufactured and installed by ATEF Group.<br><br>The groundbreaking ceremony of the 330/110 kV “Jabrayil” junction substation was held on May 26 last year with the participation of President Ilham Aliyev and First Lady Mehriban Aliyeva."
+    },
+    {
+      "id": 3,
+      "thumbnail": "./assets/images/posts/3.webp",
+      "status": "New",
+      "title": "ATEF delivered 4 units of 133 MVA 330/220/10 kV autotransformers",
+      "slug": "atef-delivered-4-units-of-133-mva",
+      "date": "12.01.2023",
+      "time": "16:45",
+      "content": "ATEF Group of Companies carried out its next export to Georgia.<br><br>4 units of 133 MVA 330/220/10 kV autotransformers manufactured at the Large Power Transformers Plant were installed in the “Gardabani-500” substation."
+    },
+    {
+      "id": 4,
+      "thumbnail": "./assets/images/posts/4.webp",
+      "status": "New",
+      "title": "“RWSx4 ATEF” microprocessor system for railways was introduced",
+      "slug": "atef-delivered-4-units-of-133-mva",
+      "date": "26.12.2022",
+      "time": "19:45",
+      "content": "A presentation of the RWSx4 ATEF microprocessor system, owned by ATEF Group of Companies LLC, was held for the specialized specialists of Azerbaijan Railways CJSC."
+    }
+  ]
+}

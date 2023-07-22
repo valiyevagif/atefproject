@@ -1,0 +1,29 @@
+
+{
+  "articles": [
+    {
+      "title": "Power Transformers",
+      "slug": "power-transformers",
+      "thumbnail": "./assets/images/products/power-transformer.webp",
+      "content": "ATEF produces oil immersed Power transformers with a voltage class of up to 525 kV and 800 MVA.Our company use own design and construction concept which allows us to speed up the design process with a short production time. ATEF transformers are tested and certified by KEMA and CESI laboratories."
+    },
+    {
+      "title": "Distribution Transformers",
+      "slug": "distribution-transformers",
+      "thumbnail": "./assets/images/products/distribution_transformers.webp",
+      "content": "Our product range includes oil distribution transformers up to 5,000 kVA and a voltage class of 52 kV.  According to the design, transformers are made hermetically sealed (HST), gas insulated (GIT), with flanges (TF) and an expansion tank (ETT).<br><br>At the request of the customer, regulation of the voltage can be both on load (with OLTC) and off load(OCTC). The windings of the transformers are made of aluminium or copper. On request, distribution transformers with low losses can be supplied.<br><br>Distribution transformer tanks are made of corrugated walls and have a protective coating on the epoxy base. Cold or hot galvanized is also possible for long-term operation of transformers in the coastal areas and on oil platforms. The annual production capacity is 5000 units."
+    },
+    {
+      "title": "Complete Transformer Substations (CTS)",
+      "slug": "complete-transformer-substations",
+      "thumbnail": "./assets/images/products/cts.webp",
+      "content": "The ATEF group of companies develops and manufactures complete transformer substations (CTS) with a rated power from 25 kVA to 1600 kVA for distribution networks.Complete transformer substations (CTS) are intended for power supply and consumer protection in human settlements objects in areas with temperate climates (from minus 45 to plus 40 °C).At the customer's request, it is possible to manufacture a package transformer substation in a different design and configuration, including with a load switch or a vacuum switch.Up to 1000 (approximate equivalent is a station with 150 switch points)"
+    },
+    {
+      "title": "Dry Transformers",
+      "slug": "dry-transformers",
+      "thumbnail": "./assets/images/products/dry_transformers.webp",
+      "content": "ATEF offers dry transformers with airborne insulation or with cast insulation such as GEOFOL with a power of up to 12 MVA and a voltage of up to 35 kV for various industries, such as nuclear power plants, subways, residential buildings, platforms, shopping centers, business center, etc., which require non-combustible materials.The insulating material can be made of aluminum or copper foil, as well as wire. Transformers can be supplied with or without a compact easily removable housing. Depending on customer requirements, special fans with a control system for heat resistance with the temperature class B, F, H, C and insulation materials such as enamel, glass fiber, Nomex or polyimide-fluoroplastic membrane can be used."
+    }
+  ]
+}
