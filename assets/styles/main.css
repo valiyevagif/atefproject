@@ -1525,6 +1525,55 @@ aside {
   cursor: pointer;
 }
 
+.mobile-side-menu .logo {
+  margin: 50px 0x;
+}
+
+.mobile-side-menu button {
+  margin-bottom: 50px;
+}
+
+.mobile-side-menu {
+  position: fixed;
+  right: 0px;
+  top: 0px;
+  height: 100vh;
+  background-color: white;
+  width: 350px;
+  z-index: 50;
+  padding: 20px;
+  transform: translateX(350px);
+  transition: 0.3s all;
+  overflow-y: scroll;
+}
+
+.mobile-side-menu.open {
+  transform: translateX(0px);
+}
+
+.mobile-side-menu ul {
+  margin: 50px 0px;
+}
+
+.mobile-side-menu img {
+  width: 120px;
+}
+
+
+.mobile-side-menu ul li {
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0px 11px 30px rgba(0, 0, 0, 0.07);
+    width: 100%;
+    margin-bottom: 10px;
+    transition: 0.3s;
+}
+
+.mobile-side-menu ul li:hover {
+  background-color: #0563bb;
+  transform: translateY(-5px) scale(1.03);
+  color:white;
+}
 
 
 
