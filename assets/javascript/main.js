@@ -245,3 +245,17 @@ document.addEventListener("DOMContentLoaded", function () {
     .catch((error) => console.error("Error fetching news data:", error));
 });
 
+
+/* MOBILE NAV SCRIPT */
+
+let closeBtn = document.querySelector('#closeBtn');
+let mobileNav = document.querySelector('.mobile-side-menu');
+let hambugerBtn = document.querySelector('.hamburger-menu');
+
+hambugerBtn.addEventListener('click', ()=> {
+  mobileNav.classList.add('open');
+})
+
+closeBtn.addEventListener('click', ()=> {
+  mobileNav.classList.remove('open');
+})
